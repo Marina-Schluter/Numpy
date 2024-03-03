@@ -6,7 +6,7 @@
 
 This repository contains various array operations performed witn NumPy.
 
-##Contents
+## Contents
 
 1. [Creating arrays](#Creating-arrays)
 2. [Indexing & Filtering](#Indexing-&-Filtering)
