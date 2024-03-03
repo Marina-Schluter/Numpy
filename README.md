@@ -4,7 +4,7 @@
 ![alt text](image.png)
 
 
-This repository contains various array operations performed witn NumPy.
+This repository contains various array operations performed with NumPy.
 
 ## Contents
 
